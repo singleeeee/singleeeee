@@ -13,4 +13,4 @@
 
 - 🤝 I’m looking for help with **internship**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/2202_75922690?spm=1010.2135.3001.5343](https://blog.csdn.net/2202_75922690?spm=1010.2135.3001.5343)
+- 📝 I regularly write articles on [csdn](https://blog.csdn.net/2202_75922690?spm=1010.2135.3001.5343)

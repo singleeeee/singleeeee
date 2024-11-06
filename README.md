@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+singleeeee's+Home!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&vCenter=true&width=435&lines=%F0%9F%A5%B0Hey%EF%BC%81Nice+to+see+you.)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singleeeee&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleeeee&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

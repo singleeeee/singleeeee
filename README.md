@@ -3,7 +3,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singleeeee&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleeeee&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Recently
+## Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/AchoBeta/achobeta-frontend-admin/pull/4) in [AchoBeta/achobeta-frontend-admin](https://github.com/AchoBeta/achobeta-frontend-admin)
 <!--END_SECTION:activity-->
+
+## Recently
+- 🌱 I’m currently learning **Typescript、Vue、React、Webpack、Nest...**
+
+- 🤝 I’m looking for help with **internship**
+
+- 📝 I regularly write articles on [https://blog.csdn.net/2202_75922690?spm=1010.2135.3001.5343](https://blog.csdn.net/2202_75922690?spm=1010.2135.3001.5343)

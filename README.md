@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singleeeee&theme=tokyonight&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singleeeee&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Recently
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/AchoBeta/achobeta-frontend-admin/pull/4) in [AchoBeta/achobeta-frontend-admin](https://github.com/AchoBeta/achobeta-frontend-admin)
 <!--END_SECTION:activity-->

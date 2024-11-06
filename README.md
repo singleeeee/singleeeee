@@ -1,13 +1,6 @@
-## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+singleeeee's+Home!;Second+line+of+text)](https://git.io/typing-svg)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=singleeeee&layout=compact&theme=tokyonight)
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=singleeeee&repo=competition-Center&theme=dark)
-![Visitor Count](https://profile-counter.glitch.me/singleeeee/count.svg)
-<!--
-**singleeeee/singleeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

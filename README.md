@@ -25,6 +25,6 @@
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/AchoBeta/achobeta-frontend-admin/pull/4) in [AchoBeta/achobeta-frontend-admin](https://github.com/AchoBeta/achobeta-frontend-admin)
+1. 🎉 Merged PR [#1](https://github.com/AchoBeta/achobeta-pluto-front/pull/1) in [AchoBeta/achobeta-pluto-front](https://github.com/AchoBeta/achobeta-pluto-front)
 <!--END_SECTION:activity-->
 

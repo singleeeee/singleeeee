@@ -25,6 +25,6 @@
 
 ### Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AchoBeta/achobeta-pluto-front/pull/1) in [AchoBeta/achobeta-pluto-front](https://github.com/AchoBeta/achobeta-pluto-front)
+1. ❗ Opened issue [#562](https://github.com/kailong321200875/vue-element-plus-admin/issues/562) in [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin)
 <!--END_SECTION:activity-->
 
